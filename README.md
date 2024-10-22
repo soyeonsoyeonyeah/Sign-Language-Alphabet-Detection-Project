@@ -66,4 +66,4 @@ This project involves real-time detection of sign language through a webcam and 
 ## Demo Video
 
 You can watch the demo of this project on YouTube by clicking the link below:  
-[Hotel Reservation System Demo](https://youtube.com/your-demo-link)
+[Sign Language Alphabet Detection](https://youtube.com/your-demo-link)
